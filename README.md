@@ -5,7 +5,7 @@
 
 
 
-•	Technologies & Tools used were Node.js, Express, MongoDB, HTML5, CSS, Bootstrap, GIT
+•	Technologies & Tools used were Node.js, Express, HTML5, CSS, Bootstrap, GIT
 
 
 ### For running locally
