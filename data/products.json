@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "title": "Eggs",
+        "description": "Eggs are <span class=\"label label-info\">$1 per box</span>",
+        "price": 1
+    },
+    {
+        "id": 2,
+        "title": "Oranges",
+        "description": "Oranges are <span class=\"label label-info\">$1.5 per lb</span>",
+        "price": 1.5
+    },
+    {
+        "id": 3,
+        "title": "Bread",
+        "description": "Bread is <span class=\"label label-info\">$1 each</span>",
+        "price": 1
+    }
+]
